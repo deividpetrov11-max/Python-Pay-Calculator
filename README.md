@@ -1,25 +1,36 @@
-The beginner Python-based program 'Pay Calculator' was developed as a part of my independent study of the Python programming language. 
+**Python Pay Calculator**
+The beginner Python-based program **Pay Calculator** was developed as a part of my independent study of the Python programming language. 
 
-Python Pay Calculator is a program that calculates gross pay using the number of hours worked and the hourly rate.
+Python Pay Calculator is a program that calculates gross pay using number of hours worked and the hourly rate.
 
-WHAT THE PROGRAM DOES?:
+**WHAT DOES THE PROGRAM DO?**
 The program asks the user to enter:
 - Working hours
 - Hourly rate
 
 It then calculates and displays the total gross pay. 
 
-PYTHON CONCEPTS USED: 
+**PYTHON CONCEPTS USED**
 
 In this project , I embedded the following basic Python concepts:
+
 - Variables
 - 'input()' function
 - 'float()' function
 - Arithmetic operations
 - 'print()' function
 
-HOW TO RUN?
+**HOW TO RUN?**
 
-If you want the program to execute the operations it includes, the following command should be run:
+To run the program, save the py. file from this repository in a folder on you desktop. Open the terminal on your computer and navigate to the folder with the file. At the end, execute the following command:
 
-python 3 pay.calculator.py
+python pay.calculator.py
+
+On Mac computers, you might have to use:
+
+python3 pay.calculator.py
+
+**EXAMPLE**
+Enter Hours: 40
+Enter Rate: 15
+Pay: 600.0
